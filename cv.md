@@ -1,6 +1,6 @@
 # __AINURA ODINTSEVA__
 
-![my photo](../../../../Desktop/my-photo.jpeg)
+![my photo](./assets/my-photo.jpeg)
 
 ***
 
@@ -12,9 +12,10 @@
 
 * __Address:__ Bishkek, Kyrgizstan
 * __Email:__ ain.odintseva@gmail.com
-* __Telegram:__ ain_odin
-* __Github:__ ain-odin
-* __Discord:__ ain-odin#3094
+* __Telegram:__ [ain_odin](https://t.me/ain_odin)
+* __LinkedIn:__ [Ainura Odintseva](https://www.linkedin.com/in/ainura-odintseva-884697258/)
+* __Github:__ [ain-odin](https://github.com/ain-odin)
+* __Discord:__ [ain-odin#3094](https://discordapp.com/users/1049171384909189130)
 
 ***
 
@@ -29,7 +30,7 @@ AirBee | 2018
 * __Responsive Web Design__
 Freecodecamp | nov. 2022
 
-* __JavaScript | HTML | CSS__
+* __JavaScript / HTML / CSS__
 Code-basics courses | 2023
 
 * __JavaScript/Front-end. Stage 0__
@@ -72,7 +73,7 @@ Frontend intern | nowadays
 
 ## __CODE__
 
-Solution of [https://www.codewars.com/kata/526571aae218b8ee490006f4](__Bit Counting__) kata from _Codewars_
+Solution of [__Bit Counting__](https://www.codewars.com/kata/526571aae218b8ee490006f4) kata from _Codewars_
 ```
 var countBits = function(n) {
   return n.toString(2).split('0').join('').length;
@@ -83,9 +84,9 @@ var countBits = function(n) {
 
 ## __Projects__
 
-* [https://rolling-scopes-school.github.io/ain-odin-JSFEPRESCHOOL2022Q4/plants/](_Plants_) project from previous _JavaScript/Front-end_ stage by RS School
+* [__Plants__](https://rolling-scopes-school.github.io/ain-odin-JSFEPRESCHOOL2022Q4/plants/) project from previous _JavaScript/Front-end_ stage by RS School
 
-* [https://ain-odin.github.io/CV/](CV) project from previous _JavaScript/Front-end_ stage by RS School
+* [__CV__](https://ain-odin.github.io/CV/) project from previous _JavaScript/Front-end_ stage by RS School
 
 ***
 
