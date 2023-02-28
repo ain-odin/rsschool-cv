@@ -1,5 +1,7 @@
 # __AINURA ODINTSEVA__
 
+![my photo](../../../../Desktop/my-photo.jpeg)
+
 ***
 
 ## JUNIOR FRONTEND DEVELOPER
@@ -23,23 +25,37 @@ Kyrgyz State University of Construction, Transport and Architecture | 2017 - 202
 
 * __Graphic design courses__
 AirBee | 2018
- 
-* __JavaScript courses__
-Neobis Club | in progress
- 
+
 * __Responsive Web Design__
 Freecodecamp | nov. 2022
- 
+
+* __JavaScript | HTML | CSS__
+Code-basics courses | 2023
+
 * __JavaScript/Front-end. Stage 0__
-RS School | in progress
+Rolling Scopes School | 2023
+ 
+* __JavaScript/Front-end__
+Rolling Scopes School | in progress
 
 ***
 
+## WORK EXPERIENCE
+
+* __Vanilla Coffee Company__
+Head barista | 2014 - 2020
+
+* __Production center__
+Grafic designer | 2020 - 2022
+
+* __Breez__
+Frontend intern | nowadays
+
 ## __SKILLS__
 
-* HTML5, CSS3
-* JavaScript Basics
-* Git, GitHub
+* HTML, CSS/SCSS
+* JavaScript (Basic)
+* Git (GitHub, GitLab)
 * VS Code
 * Adobe Photoshop, Illustrator, InDesign
 * Brewing delicious coffee
