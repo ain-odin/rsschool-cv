@@ -72,11 +72,20 @@ Frontend intern | nowadays
 
 ## __CODE__
 
+Solution of [https://www.codewars.com/kata/526571aae218b8ee490006f4](__Bit Counting__) kata from _Codewars_
 ```
-function multiply(a, b){
-  return a * b
-}
+var countBits = function(n) {
+  return n.toString(2).split('0').join('').length;
+};
 ```
+
+***
+
+## __Projects__
+
+* [https://rolling-scopes-school.github.io/ain-odin-JSFEPRESCHOOL2022Q4/plants/](_Plants_) project from previous _JavaScript/Front-end_ stage by RS School
+
+* [https://ain-odin.github.io/CV/](CV) project from previous _JavaScript/Front-end_ stage by RS School
 
 ***
 
