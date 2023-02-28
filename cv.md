@@ -22,21 +22,27 @@
 ## __EDUCATION__
 
 * __Bachelor Degree__
+
 Kyrgyz State University of Construction, Transport and Architecture | 2017 - 2022
 
 * __Graphic design courses__
+
 AirBee | 2018
 
-* __Responsive Web Design__
+* [__Responsive Web Design__](https://www.freecodecamp.org/)
+
 Freecodecamp | nov. 2022
 
-* __JavaScript / HTML / CSS__
+* [__JavaScript / HTML / CSS__](https://code-basics.com/ru)
+
 Code-basics courses | 2023
 
-* __JavaScript/Front-end. Stage 0__
-Rolling Scopes School | 2023
+* [__JavaScript/Front-end. Stage 0__](https://rs.school/js-stage0/)
+
+Rolling Scopes School | dec. 2022 - mar. 2023
  
-* __JavaScript/Front-end__
+* [__JavaScript/Front-end__](https://rs.school/js/#basic-knowledge)
+
 Rolling Scopes School | in progress
 
 ***
@@ -44,12 +50,15 @@ Rolling Scopes School | in progress
 ## WORK EXPERIENCE
 
 * __Vanilla Coffee Company__
+
 Head barista | 2014 - 2020
 
 * __Production center__
+
 Grafic designer | 2020 - 2022
 
 * __Breez__
+
 Frontend intern | nowadays
 
 ## __SKILLS__
@@ -84,9 +93,9 @@ var countBits = function(n) {
 
 ## __Projects__
 
-* [__Plants__](https://rolling-scopes-school.github.io/ain-odin-JSFEPRESCHOOL2022Q4/plants/) project from previous _JavaScript/Front-end_ stage by RS School
+* [__CV__](https://ain-odin.github.io/rsschool-cv-stage0/) project from previous _JavaScript/Front-end_ stage by RS School
 
-* [__CV__](https://ain-odin.github.io/CV/) project from previous _JavaScript/Front-end_ stage by RS School
+* [__Plants__](https://rolling-scopes-school.github.io/ain-odin-JSFEPRESCHOOL2022Q4/plants/) project from previous _JavaScript/Front-end_ stage by RS School
 
 ***
 
