@@ -207,23 +207,23 @@ code {
 .navbar__list {
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
     padding: 20px 0;
     position: relative;
     z-index: 2;
+    gap: 10px;
 }
 
 .navbar__link {
     list-style: none;
     text-transform: uppercase;
-    padding-left: 20px;
 }
 
 .navbar__link a {
-    font-size: 15px;
+    font-size: 12px;
     font-weight: 300;
-    line-height: 42px;
+    line-height: 40px;
     text-transform: uppercase;
     color: white;
     transition: color 0.5s;
@@ -453,14 +453,6 @@ code {
 .footer__logo{
     width: 120px;
     height: 44px;
-    background-image: url("./assets/svg/logo.svg");
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
-.footer__logo{
-    width: 120px;
-    height: 44px;
     background-image: url("./assets/icons/logo.svg");
     background-size: contain;
     background-repeat: no-repeat;
@@ -471,5 +463,6 @@ code {
         flex-direction: column;
         align-items: center;
         justify-content: center;
+        gap: 12px;
     }
 }
