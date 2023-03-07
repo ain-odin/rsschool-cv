@@ -70,6 +70,10 @@ li {
     list-style: none;
 }
 
+code {
+    margin-top: 30px;
+}
+
 .section__title {
     font-size: 24px;
     font-weight: 400;
@@ -399,10 +403,6 @@ li {
     .cv__info {
         display: grid;
         grid-template-columns: 1fr;
-    }
-
-    .contacts__info-title, .lang__info-title, .footer__text p{
-        padding-right: 0;
     }
 }
 
